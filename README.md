@@ -19,7 +19,7 @@
   <br/>
 
   <p align="center">
-    <a href="https://yogaportofolio.netlify.app/" target="_blank">
+    <a href="https://hilmy20.github.io/Portofolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-View_Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="mailto:hilmyabiyyu20@gmail.com" target="_blank">
